@@ -1,4 +1,4 @@
-# 🐞 VRChat 숨어라 벌레잡기 (Bug Hunter VR)
+# 🐞 VRChat 버그 찾기 (Bug Hunter VR)
 > 사냥꾼과 벌레의 숨바꼭질, 비대칭 멀티플레이 게임
 
 ---
